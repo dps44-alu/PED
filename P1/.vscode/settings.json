@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "iterator": "cpp",
+        "ostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "new": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "compare": "cpp",
+        "type_traits": "cpp"
+    }
+}
